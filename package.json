@@ -9,7 +9,7 @@
     "test": "ng test"
   },
   "private": true,
-  "homepage": "https://narasimha1294.github.io/",
+  "homepage": "https://narasimha1294.github.io/PA.io",
   "dependencies": {
     "@angular/animations": "^16.2.0",
     "@angular/common": "^16.2.0",
